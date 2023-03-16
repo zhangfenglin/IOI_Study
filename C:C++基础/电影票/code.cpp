@@ -3,9 +3,7 @@
 using namespace std;
 
 int main() {
-    int price = 10;
-
-    int x;
+    int x, price = 10;
     cin >> x;
 
     int total = x * price;
